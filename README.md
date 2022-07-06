@@ -14,6 +14,8 @@ Cursando 6 Semestre em Ciência da Computação!
 
   
   ##
+  
+  Minhas Redes Sociais para contato direto! 
   <div> 
 
  [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:edersonalvesdasilva@hotmail.com)](mailto:edersonalvesdasilva@hotmail.com)
