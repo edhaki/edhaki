@@ -1,6 +1,6 @@
 OLÁ MUNDO BEM VINDO AO MEU PERFIL NO GITHUB ME CHAMO EDERSON ALVES! 
 
-- 🔭 Hoje eu trabalho como analista de infraestrutura de redes Pleno.
+- 🔭 Hoje eu trabalho como analista de infraestrutura de redes Pl.
 - 🌱 Estou aprendendo JAVA e Golang e outras linguagem em mente na sequencia para ser um futuro devops. 
 - ⚡ Alguns fatos engraçado é que sim programação é dificil, saia da bolha do YOUTUBE.
 
