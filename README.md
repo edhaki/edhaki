@@ -1,9 +1,7 @@
 OLÁ MUNDO BEM VINDO AO MEU PERFIL NO GITHUB ME CHAMO EDERSON ALVES! 
 
-Cursando 6 Semestre em Ciência da Computação!
-
-- 🔭 Hoje eu trabalho na EuNerd como prestador de serviço e Lider Técnico em TI.
-- 🌱 Estou aprendendo JAVA e Golang e outras linguagem em mente na sequencia para ser um futuro desenvolvedor. 
+- 🔭 Hoje eu trabalho como analista de infraestrutura de redes Pleno.
+- 🌱 Estou aprendendo JAVA e Golang e outras linguagem em mente na sequencia para ser um futuro devops. 
 - ⚡ Alguns fatos engraçado é que sim programação é dificil, saia da bolha do YOUTUBE.
 
 
@@ -14,7 +12,6 @@ Cursando 6 Semestre em Ciência da Computação!
 
   
   ##
-  
  Email e Linkedin para contato direto! 
   <div> 
 
