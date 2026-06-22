@@ -9,6 +9,7 @@ OLÁ MUNDO BEM VINDO AO MEU PERFIL NO GITHUB ME CHAMO EDERSON ALVES!
   <img align="center" alt="Edraki-Java" heigth="30" width=70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Edraki-CSS" height="30" width="70" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img align="center" alt="Edraki-JS" height="30" width="70" src="https://img.shields.io/badge/json-javascript-blue">
+  <img align="center" alt="Edraki-JS" height="30" width="70" src="https://img.shields.io/badge/github-repo-blue?logo=github">
  
 
   
